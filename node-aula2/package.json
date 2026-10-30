@@ -1,5 +1,5 @@
 {
-  "name": "aula2",
+  "name": "loja-informatica",
   "version": "1.0.0",
   "description": "aula de backend do thiago",
   "main": "serve.js",
@@ -12,5 +12,10 @@
   "dependencies": {
     "express": "^5.3.0",
     "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeanfraga95"
   }
 }

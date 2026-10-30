@@ -1,4 +1,4 @@
-const pet = [
+const pets = [
   {
     nome: "Belinha",
     tutor: "Ana Maria",
@@ -14,4 +14,4 @@ const pet = [
   },
 ];
 
-export default pet;
+export default pets;

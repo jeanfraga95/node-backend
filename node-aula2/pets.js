@@ -1,4 +1,4 @@
-const pets = [
+let pets = [
   {
     id: 1,
     nome: "belinha",
